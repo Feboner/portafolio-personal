@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "titulo": "Lanzamiento oficial del portafolio",
+    "fecha": "2026-10-16",
+    "contenido": "Se ha desplegado la primera versión oficial del portafolio utilizando React y Bootstrap."
+  },
+  {
+    "id": 2,
+    "titulo": "Integración de Pruebas Unitarias",
+    "fecha": "2026-10-15",
+    "contenido": "Configuración exitosa de Jasmine y Karma para validar la lógica de los componentes."
+  }
+]
